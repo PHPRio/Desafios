@@ -13,22 +13,19 @@ A pasta principal, contem o desafio e no arquivo README.md estará a descrição
 ├── desafio_bla
 │   ├── README.md
 │   └── solucoes
-│       └── daianealvesrj
+│       └── joaquimdosalfaces
 │           ├── dados.sql
 │           └── solucao.php
 └── desafio_ble
     ├── README.md
     └── solucoes
-        ├── daianealvesrj
+        ├── marianadascouves
         │   ├── dados.sql
         │   └── solucao.php
-        └── vitormattos
+        └── josedomilho
             ├── index.php
             └── teste.sh
 ```
 
 # Como participar?
 Crie um diretório com seu nome de usuário de GitHub contendo a sua solução do problema e mande um pull request para este repositório. 
-
-
-
