@@ -31,7 +31,8 @@ A pasta principal, contem o desafio e no arquivo README.md estará a descrição
 * Identifique o problema que deseja solucionar;
 * Crie um fork deste repositório (é preciso criar apenas uma vez);
 * Faça um clone do fork que você criou;
-* Crie um diretório com seu nome de usuário de GitHub contendo a sua solução do problema e
+* Crie um diretório com seu nome de usuário do GitHub dentro da pasta `nome_problema/solucoes` contendo a sua solução do problema
+* Elabore a solução, faça testes, manuais ou automatizados;
 * Mande um pull request para este repositório.
 
 # Dúvidas?
