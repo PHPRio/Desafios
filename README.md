@@ -28,4 +28,11 @@ A pasta principal, contem o desafio e no arquivo README.md estará a descrição
 ```
 
 # Como participar?
-Crie um diretório com seu nome de usuário de GitHub contendo a sua solução do problema e mande um pull request para este repositório.
+* Identifique o problema que deseja solucionar;
+* Crie um fork deste repositório (é preciso criar apenas uma vez);
+* Faça um clone do fork que você criou;
+* Crie um diretório com seu nome de usuário de GitHub contendo a sua solução do problema e
+* Mande um pull request para este repositório.
+
+# Dúvidas?
+[PHPRio](t.me/PHPRio) ou procure a comunidade por onde você recebeu o desafio.
