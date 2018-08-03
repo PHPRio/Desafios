@@ -10,13 +10,13 @@ Os desafios serão colocados neste repositório, para visualizar, basta clicar n
 ### Estrutura de diretórios
 A pasta principal, contem o desafio e no arquivo README.md estará a descrição do desafio proposto.
 ```
-├── desafio_bla
+├── 20180108-desafio_bla
 │   ├── README.md
 │   └── solucoes
 │       └── joaquimdosalfaces
 │           ├── dados.sql
 │           └── solucao.php
-└── desafio_ble
+└── 20180109-desafio_ble
     ├── README.md
     └── solucoes
         ├── marianadascouves
