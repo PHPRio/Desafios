@@ -28,4 +28,4 @@ A pasta principal, contem o desafio e no arquivo README.md estará a descrição
 ```
 
 # Como participar?
-Crie um diretório com seu nome de usuário de GitHub contendo a sua solução do problema e mande um pull request para este repositório. 
+Crie um diretório com seu nome de usuário de GitHub contendo a sua solução do problema e mande um pull request para este repositório.
