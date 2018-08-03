@@ -2,7 +2,7 @@
 Este repositório é destinado a publicar desafios e propostas de soluções para os desafios.
 
 ## Lista de desafios
-[Equação do segundo grau](20180803-Equacao-do-segundo-grau)
+[Soma dois inteiros](20180803-Soma-dois-inteiros)
 
 # Visualizando os desafios
 Os desafios serão colocados neste repositório, para visualizar, basta clicar no desafio escolhido.
