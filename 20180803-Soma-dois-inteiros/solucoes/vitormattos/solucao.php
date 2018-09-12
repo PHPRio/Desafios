@@ -1,5 +1,9 @@
 <?php
-function soma($a, $b) {
+/**
+ * Função de soma
+ */
+function soma($a, $b)
+{
     return $a + $b;
 }
 
