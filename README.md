@@ -3,6 +3,7 @@ Este repositório é destinado a publicar desafios e propostas de soluções par
 
 ## Lista de desafios
 1. [Soma dois inteiros](20180803-Soma-dois-inteiros)
+2. [Media](20180913-Media) 
 
 # Visualizando os desafios
 Os desafios serão colocados neste repositório, para visualizar, basta clicar no desafio escolhido.
