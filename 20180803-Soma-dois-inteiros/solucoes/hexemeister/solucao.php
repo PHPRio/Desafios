@@ -7,7 +7,7 @@
 
 <!-- Desafio Soma PHPWomen - RJ -->
 <form action="solucao.php" method="POST">
-	<p>N&uacute;mero1 <input type="text" name="numero1" /></p>
+	<p><label for="numero1">N&uacute;mero1</label> <input type="text" name="numero1" id="numero1" /></p>
 	<p>N&uacute;mero2 <input type="text" name="numero2" /></p>
 	<input type="submit" value="Soma" />
 </form>
