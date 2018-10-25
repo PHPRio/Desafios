@@ -6,6 +6,7 @@ Este repositório é destinado a publicar desafios e propostas de soluções par
 2. [Media](20180913-Media) 
 3. [Produto simples](20181024-Produto-simples)
 4. [Area do circulo](20181024-Area-do-circulo)
+5. [Distancia](20181024-Distancia)
 
 # Visualizando os desafios
 Os desafios serão colocados neste repositório, para visualizar, basta clicar no desafio escolhido.
