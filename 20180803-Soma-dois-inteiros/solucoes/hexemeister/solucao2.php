@@ -31,7 +31,7 @@ class Operando
 	}
 
 	public function imprime(){
-		if (!empty($this->numero1) && !empty($this->numero1)) {
+		if (!empty($this->numero1) && !empty($this->numero2)) {
 			echo 'X = ' . $this->soma();
 		}
 	}
