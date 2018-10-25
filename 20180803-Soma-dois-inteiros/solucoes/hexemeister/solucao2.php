@@ -21,29 +21,19 @@ class Operando
 	private $total;
 
 	function __construct($dados) {
-		$numero1 = isset($dados['num1']) && !empty('num1') ? (int) $dados['num1'] : '';
-		$numero2 = isset($dados['num2']) && !empty('num2') ? (int) $dados['num2'] : '';
-	}
-
-	public function set_numero1($valor){
-		$this->$numero1 = $valor;
-	}
-
-	public function set_numero2($valor){
-		$this->$numero2 = $valor;
-	}
-
-	public function get_total(){
-		return $this->$total;
+		$this->numero1 = isset($dados['num1']) && !empty('num1') ? (int) $dados['num1'] : '';
+		$this->numero2 = isset($dados['num2']) && !empty('num2') ? (int) $dados['num2'] : '';
 	}
 
 	public function soma(){
-			$total = $this->set_numero1($numero1) + $this->set_numero2($numero2);
+			$total = $this->numero1 + $this->numero2;
 			return $total;
 	}
 
 	public function imprime(){
-		echo 'X = ' . $this->get_total();
+		if (!empty($this->numero1) && !empty($this->numero1)) {
+			echo 'X = ' . $this->soma();
+		}
 	}
 }
 
